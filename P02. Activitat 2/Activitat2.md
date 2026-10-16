@@ -44,7 +44,7 @@ git --version
 
 ## Imatge del procés
 
-![Visual Studio Code obert després de la instal·lació](/Source/Activitat1/vs-code-img.png)
+![Visual Studio Code obert després de la instal·lació](./Activitat2/vs-code-img.png)
 
 ## Recursos
 
